@@ -1,0 +1,1 @@
+Buka index.html. Semua visual diambil dari halaman PDF portfolio yang diunggah. GSAP/Google Fonts memakai CDN sehingga koneksi internet diperlukan.
